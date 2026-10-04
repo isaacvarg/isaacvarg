@@ -1,5 +1,3 @@
-# Isaac Vargas
-
 <p align="center">
   <a href="https://isaacvargas.dev">
     <img src="./assets/about.svg" alt="Isaac Vargas — About Me" width="100%">
